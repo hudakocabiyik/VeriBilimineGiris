@@ -1,0 +1,2 @@
+# VeriBilimineGiris
+Veri Bilimine Giriş
